@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import SelectPage from "../support/page-object/sekectPage"
+import SelectPage from "../support/page-object/selectPage"
 
 describe("E2E - Akcja wybrania opcji select", () => {
     it("Wybieranie opcji", () => {
